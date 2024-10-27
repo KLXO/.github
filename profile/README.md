@@ -1,2 +1,2 @@
 # KLXO
-## working to bring you quality chromeOS exploits and glitches.
+working to bring you quality chromeOS exploits and glitches.
